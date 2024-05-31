@@ -54,9 +54,9 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both">
 
-<img src="https://raw.githubusercontent.com/BhismaHaris/BhismaHaris/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/BhismaHaris/BhismaHaris/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
